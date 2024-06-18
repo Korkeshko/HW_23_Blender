@@ -29,8 +29,8 @@ public class MeshGeneratorSquare : MonoBehaviour
         
         triangles = new int[]
         {
-            0, 1, 2,
-            1, 3, 2
+            0, 1, 2, // first triangle
+            1, 3, 2  // second triangle
         };
     }
 
